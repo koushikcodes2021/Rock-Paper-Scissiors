@@ -1,8 +1,12 @@
 # Rock-Paper-Scissiors
 Made using HTML, CSS, JS with electron to make an .exe file
 
-## App Screenshots
+# Check out the finished webapp
+https://koushikcodes2021.github.io/Rock-Paper-Scissiors/
+
+# The executable file
 https://drive.google.com/file/d/1OpDEF74VRiMlYn9K-ejuFgJHPfOJF7Ch/view?usp=sharing
+
 <table>
 <tbody>
 <tr>
